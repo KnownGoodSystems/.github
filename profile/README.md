@@ -2,6 +2,6 @@
 
 Small, useful software built carefully.
 
-https://knowngoodworks.dev
+https://knowngoodsystems.dev
 
-For support: support@knowngoodworks.dev
+For support: support@knowngoodsystems.dev
